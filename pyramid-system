@@ -1,0 +1,9 @@
+# 1. استنساخ المستودع
+git clone https://github.com/your-username/pyramide-system.git
+cd pyramide-system
+
+# 2. انسخ جميع الملفات أعلاه إلى المجلد
+# 3. أضف الملفات إلى Git
+git add .
+git commit -m "الإصدار الأولي لنظام Pyramide"
+git push origin main
